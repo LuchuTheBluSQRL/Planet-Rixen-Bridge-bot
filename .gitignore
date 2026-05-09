@@ -51,3 +51,4 @@ scrape-gifs.ts
 
 # Output artifacts
 output/
+.env
